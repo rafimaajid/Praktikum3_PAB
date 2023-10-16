@@ -17,6 +17,7 @@ const styles = StyleSheet.create({
     alignItems: "center",
     borderRadius: 30,
   },
+  
   text: {
     fontSize: 16,
     textTransform: "uppercase",
